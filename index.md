@@ -1,5 +1,5 @@
 # Magic Mirror
-My project is the magic mirror wich has a two way plastic mirror with a monitor behind connected to a rasberry pie with the magic mirror software downloaded onto it. Some big hurdles I have encountered where mostly on the sofware sideofthings but the mirror I had is was damaged when `1 , takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
+My project is the magic mirror wich has a two way plastic mirror with a monitor behind connected to a rasberry pie with the magic mirror software downloaded onto it. Some big hurdles I have encountered where mostly on the sofware side ofthings but the mirror I had is was damaged when heat was applied to it whilst trying to fix some scratches so a new one was needed. But now a protective plastice will be put infront of it . , takeaways, and triumphs from completing the project were. As you complete your portfolio, remember your audience is less familiar than you are with all that your project entails!
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|

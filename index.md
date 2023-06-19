@@ -1,5 +1,5 @@
 # Magical Mirror!
-My project is the magic mirror wich has a two way plastic mirror with a monitor behind connected to a rasberry pie with the magic mirror software downloaded onto it. Some big hurdles I have encountered where mostly on the sofware side ofthings but the mirror I had is was damaged when heat was applied to it whilst trying to fix some scratches so a new one was needed. But now a protective plastice will be put infront of it.
+My project is the magic mirror wich has a two way plastic mirror with a monitor behind connected to a rasberry pie with the magic mirror software downloaded onto it, it will be in my bathroom and it has faetures like showing my calender or the time, also at the bottom it displays news. Some big hurdles I have encountered where mostly on the sofware side ofthings but the mirror I had is was damaged when heat was applied to it whilst trying to fix some scratches so a new one was needed. But now a protective plastice will be put infront of it.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|

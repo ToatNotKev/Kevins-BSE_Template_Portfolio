@@ -28,9 +28,14 @@ What you hope to learn in the future after everything you've learned at BSE
 <iframe width="560" height="315" src=" " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 # First Milestone
-I succede in getting the code to run the magic mirror software on my rasberry pi 4. But before this I had to instal the thirty two bit rassberry pi os onto a micro sd card and student named Hari downloaded the os on the micro sd card so props to him. After installing th os I ran some commands on the rasberry pi to bassically donwload the files to install the magic mirror soft ware
+I succede in getting the code to run the magic mirror software on my rasberry pi 4. But before this I had to instal the thirty two bit rassberry pi os onto a micro sd card and student named Hari downloaded the os on the micro sd card so props to him.  After installing th os I ran some commands on the rasberry pi to bassically donwload the files to install the magic mirror soft ware
 
 <iframe width="560" height="315" src="https://www.youtube.com/watch?v=ZpdhrvoJoVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Starter Project 
+I made a mob that is useless. It has a mototr in it witch turns off a switch that you turn on and the mottor spins a arm that opens the box
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=mjSBqs2uI4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!---# Code 
 

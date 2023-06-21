@@ -7,7 +7,7 @@ My project is the magic mirror wich has a two way plastic mirror with a monitor 
 
 <!--**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
-![Headstone Image](logo.svg)
+[Headstone Image](logo.svg)
   
 # Final Milestone
  For your final milestone, explain the outcome of your project. Key details to include are:
@@ -25,18 +25,14 @@ What you hope to learn in the future after everything you've learned at BSE
  Previous challenges you faced that you overcame
  What needs to be completed before your final milestone
 - 
-<iframe width="560" height="315" src=" " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src=" " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 # First Milestone
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
+I succede in getting the code to run the magic mirror software on my rasberry pi 4. But before this I had to instal the thirty two bit rassberry pi os onto a micro sd card and student named Hari downloaded the os on the micro sd card so props to him. After installing th os I ran some commands on the rasberry pi to bassically donwload the files to install the magic mirror soft ware
 
-<iframe width="560" height="315" src=" " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ZpdhrvoJoVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# Code 
+<!---# Code 
 
 ```c++
 void setup() {

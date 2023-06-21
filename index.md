@@ -9,14 +9,14 @@ My project is the magic mirror wich has a two way plastic mirror with a monitor 
 
 [Headstone Image](logo.svg)
   
+<iframe width="560" height="315" src=" " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 # Final Milestone
  For your final milestone, explain the outcome of your project. Key details to include are:
  What you've accomplished since your previous milestone
  What your biggest challenges and triumphs were at BSE
 A summary of key topics you learned about
 What you hope to learn in the future after everything you've learned at BSE
-- 
-<iframe width="560" height="315" src=" " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Second Mileston
  For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
@@ -28,15 +28,16 @@ What you hope to learn in the future after everything you've learned at BSE
 <iframe width="560" height="315" src=" " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 # First Milestone
-I succeeded in getting the code to run the magic mirror software on my Raspberry Pi 4. But before this, I had to install the thirty-two-bit raspberry pi os onto a micro sd card and a student named Hari downloaded the os on the micro sd card so props to him.  After installing the os I ran some commands on the raspberry pi terminal to download the files to install the magic mirror software. These commands were the following, "git clone https://github.com/MichMich/MagicMirror" which retrieves all the file data from git hub and then after running the command "cd MAgicMirror/" to store all that information onto a file with that name. Then you tell the computer to install all that data by saying "npm run install-mm" After this, you have all this data on your Rasberry Pi you have to get it from the configuration file which contains all Magic Mirrors software code. That is done by entering "cp config/config.js.sample config/config.js" finally you tell the computer to use all that data and make something of it, in other words, we tell the computer to boot up the software by entering "npm run start".
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZpdhrvoJoVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+I succeeded in getting the code to run the magic mirror software on my Raspberry Pi 4. But before this, I had to install the thirty-two-bit raspberry pi os onto a micro sd card and a student named Hari downloaded the os on the micro sd card so props to him.  After installing the os I ran some commands on the raspberry pi terminal to download the files to install the magic mirror software. These commands were the following, "git clone https://github.com/MichMich/MagicMirror" which retrieves all the file data from git hub and then after running the command "cd MAgicMirror/" to store all that information onto a file with that name. Then you tell the computer to install all that data by saying "npm run install-mm" After this, you have all this data on your Rasberry Pi you have to get it from the configuration file which contains all Magic Mirrors software code. That is done by entering "cp config/config.js.sample config/config.js" finally you tell the computer to use all that data and make something of it, in other words, we tell the computer to boot up the software by entering "npm run start".
+
 # Starter Project 
 
-For my starter project, I chose the useless box. A device whose sole purpose is to turn itself off is referred to as a useless machine or useless box, in which the object’s only purpose is to turn itself off by activating its own “off” switch when powered. I chose the useless box because it looked interesting and I wanted to figure out how the little arm came out of the box and turned the switch off. There is a little led that turns green when the arm is coming out and red when it flips the switch off. Inside the box, there is a servo that is attached to the arm powered by three triple batteries. The arm has extra material at the end which hits a switch when in its off position. Some challenges when making the useless box were getting all the box walls is aligned with the top of the useless box 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mjSBqs2uI4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+For my starter project, I chose the useless box. A device whose sole purpose is to turn itself off is referred to as a useless machine or useless box, in which the object’s only purpose is to turn itself off by activating its own “off” switch when powered. I chose the useless box because it looked interesting and I wanted to figure out how the little arm came out of the box and turned the switch off. There is a little led that turns green when the arm is coming out and red when it flips the switch off. Inside the box, there is a servo that is attached to the arm powered by three triple batteries. The arm has extra material at the end which hits a switch when in its off position. Some challenges when making the useless box were getting all the box walls is aligned with the top of the useless box 
 
 <!---# Code 
 

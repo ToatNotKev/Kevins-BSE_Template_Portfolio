@@ -30,7 +30,7 @@ What you hope to learn in the future after everything you've learned at BSE
 # First Milestone
 I succeeded in getting the code to run the magic mirror software on my raspberry Pi 4. But before this, I had to install the thirty-two-bit raspberry pi os onto a micro sd card and a student named Hari downloaded the os on the micro sd card so props to him.  After installing the os I ran some commands on the raspberry pi to basically download the files to install the magic mirror software
 
-<iframe width="560" height="315" src=" " title="https://www.youtube.com/watch?v=ZpdhrvoJoVc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
+<iframe width="560" height="315" src=" " title="https://www.youtube.com/watch?v=ZpdhrvoJoVc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Starter Project 
 I made a useless box. A device whose sole purpose is to turn itself off is referred to as a useless machine or useless box,in which the object's only purpose is to turn itself off by activating its own "off" switch. It is powered by three triple a batteries which powers a servo motor that has a see-through plastic arm attached to it which when powered by flipping the switch at the top which powers the arm to flip the switchback off, there is also door at flap at the top so the arm can reach out of the black box.

@@ -33,7 +33,7 @@ I succeeded in getting the code to run the magic mirror software on my raspberry
 <iframe width="560" height="315" src=" " title="https://www.youtube.com/watch?v=ZpdhrvoJoVc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 # Starter Project 
-I made a useless box. It has a motor in it witch turns off a switch that you turn on and the motor spins a arm that opens the box
+I made a useless box. A device whose sole purpose is to turn itself off is referred to as a useless machine or useless box,in which the object's only purpose is to turn itself off by activating its own "off" switch. It is powered by three triple a batteries which powers a servo motor that has a see-through plastic arm attached to it which when powered by flipping the switch at the top which powers the arm to flip the switchback off, there is also door at flap at the top so the arm can reach out of the black box.
 
 <iframe width="560" height="315" src=" " title="https://www.youtube.com/watch?v=mjSBqs2uI4M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

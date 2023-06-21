@@ -28,15 +28,15 @@ What you hope to learn in the future after everything you've learned at BSE
 <iframe width="560" height="315" src=" " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 # First Milestone
-I succeeded in getting the code to run the magic mirror software on my raspberry Pi 4. But before this, I had to install the thirty-two-bit raspberry pi os onto a micro sd card and a student named Hari downloaded the os on the micro sd card so props to him.  After installing the os I ran some commands on the raspberry pi to basically download the files to install the magic mirror software
+I succeeded in getting the code to run the magic mirror software on my raspberry Pi 4. But before this, I had to install the thirty-two-bit raspberry pi os onto a micro sd card and a student named Hari downloaded the os on the micro sd card so props to him.  After installing the os I ran some commands on the raspberry pi terminal to basically download the files to install the magic mirror software. These commands where the following, "git clone https://github.com/MichMich/MagicMirror" wich retirieves all the file data from git and then after runningthe command "cd MAgicMirror/" to store all that information onto a file with that name. Then you tell the computer to install all that data by saying "npm run install-mm" after this you have all this data on your rasberry Pi you have to get it from the configuration file wich contains all Magic Mirrors software code. That is done by entering "cp config/config.js.sample config/config.js" finaly you tell the computer to use all that data and use it, in other words we tell the software to boot up by entering "npm run start".
 
-<iframe width="560" height="315" src=" " title="https://www.youtube.com/watch?v=ZpdhrvoJoVc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZpdhrvoJoVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Starter Project 
+
 For my starter project I chose the useless box. A device whose sole purpose is to turn itself off is referred to as a useless machine or useless box, in which the object’s only purpose is to turn itself off by activating its own “off” switch when powered. I chose the useless box because it looked interesting and I wanted to figure out how the little arm came out of the box and turned the switch off. There is actually a little led that turns green when the arm is coming out and red when it flips the switch off. Inside the box there is a servo which is attached to the arm powered by three triple batteries. The arm has extra material at the end which hits a switch when in its off position. Some challenges when making the useless box where getting all the box walls in aligned with the top of the useless box 
 
-
-<iframe width="560" height="315" src=" " title="https://www.youtube.com/watch?v=mjSBqs2uI4M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mjSBqs2uI4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!---# Code 
 

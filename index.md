@@ -30,12 +30,12 @@ What you hope to learn in the future after everything you've learned at BSE
 # First Milestone
 I succeeded in getting the code to run the magic mirror software on my raspberry Pi 4. But before this, I had to install the thirty-two-bit raspberry pi os onto a micro sd card and a student named Hari downloaded the os on the micro sd card so props to him.  After installing the os I ran some commands on the raspberry pi to basically download the files to install the magic mirror software
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=ZpdhrvoJoVc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src=" " title="https://www.youtube.com/watch?v=ZpdhrvoJoVc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 # Starter Project 
 I made a useless box. It has a motor in it witch turns off a switch that you turn on and the motor spins a arm that opens the box
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=mjSBqs2uI4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src=" " title="https://www.youtube.com/watch?v=mjSBqs2uI4M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <!---# Code 
 

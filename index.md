@@ -85,7 +85,7 @@ void loop() {
 | Full Motion TV wall mount | Will hold the display and mirror in place on the wall | $16 | <a href="https://www.amazon.com/Mounting-Dream-200x200mm-Articulating-MD2465/dp/B08QD61K9N/ref=sr_1_3?crid=2PGD931YN36XV&keywords=tv+wall+mount+MD2465&qid=1687448921&sprefix=tv+wall+mount+md2465%2Caps%2C146&sr=8-3"> Link </a> |
 | Triple outlet triple USB power strip | Is attached to the back of the mirror and all cables will be attached to it, serves as a power strip| $12 | <a href="https://www.amazon.com/Extension-Outlets-Braided-Listed-Compact/dp/B07WJG8K85/ref=sr_1_5?crid=28I8LBFK25F2V&keywords=mifaso%2Bpower%2Boutlet&qid=1687449088&sprefix=mifaso%2Bpower%2Boutlet%2Caps%2C219&sr=8-5&th=1"> Link </a> |
 | Mirror frame | Will hold the acrylic two way mirror in place and the wood surounding it  aswell as the monitor| $23| <a href="https://www.amazon.com/MCS-Industries-63737-Gallery-Woodgrain/dp/B0817D3QS8/ref=sr_1_6?crid=FR9CP0BDVF8A&keywords=mcs+studio+gallery+frame+18+x+24&qid=1687449737&sprefix=mcs+studio+gallery+fram+18+x+24%2Caps%2C161&sr=8-6"> Link </a> |
-
+| Led light strip | Will be used as backlight for mirror and will appear through the mirror in two parallel lines to iluminate your face if your awake at late at night and do not want to turn on the bathroom lights | $15| <a href="https://www.amazon.com/Flexible-Density-Kitchen-Bedroom-Decorations/dp/B09W8TPFHD/ref=asc_df_B09W8TPFHD/?tag=hyprod-20&linkCode=df0&hvadid=579642592239&hvpos=&hvnetw=g&hvrand=9887275762133190748&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-1652547000160&th=1"> Link </a> |
 
 <!---# Other Resources/Examples
 

@@ -72,20 +72,21 @@ void loop() {
   // put your main code here, to run repeatedly:
 
 }
-```
+```-->
 
 # Bill of Materials
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-|:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-|:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a href="https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/"> Link </a> |
-|:--:|:--:|:--:|:--:|
+| Sceptre Monitor 22in | Will be used as display for magic mirror | 80$ | <a href="https://www.amazon.com/Sceptre-E225W-19203R-Monitor-Speakers-Metallic/dp/B07774L6TT/ref=sr_1_2_sspa?crid=3MJ0X4FK9FMA4&keywords=scepter+22+in+monitor&qid=1687448462&sprefix=scepter+22+in+moti%2Caps%2C629&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
+| Two way Mirror | Will serve as the mirror for the project and is key becasue it is a tw way mirror wich will let the display be noticable through the mirror | $36 | <a href="https://www.amazon.com/0-04-Acrylic-See-Through-Mirror-Transparent/dp/B01CZ35XWY/ref=asc_df_B01CZ35XWY/?tag=hyprod-20&linkCode=df0&hvadid=216545230264&hvpos=&hvnetw=g&hvrand=7657619439256980177&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9032183&hvtargid=pla-350616698391&psc=1"> Link </a> |
+| Rasberry Pi 400 | Its the brains/computer of the porject and will run the magic mirror two software on the display | $100 | <a href="[https://www.amazon.com/Arduino-A000066-ARDUINO-UNO-R3/dp/B008GRTSV6/](https://www.amazon.com/Raspberry-400-Computer-Kit-RPI400-US/dp/B08MYVQW1S/ref=sr_1_3?keywords=raspberry+pi+400&qid=1687448757&sr=8-3)"> Link </a> |
+| Full Motion TV wall mount | Will hold the display and mirror in place on the wall | $16 | <a href="https://www.amazon.com/Mounting-Dream-200x200mm-Articulating-MD2465/dp/B08QD61K9N/ref=sr_1_3?crid=2PGD931YN36XV&keywords=tv+wall+mount+MD2465&qid=1687448921&sprefix=tv+wall+mount+md2465%2Caps%2C146&sr=8-3"> Link </a> |
+| Triple outlet triple USB power strip | Is attached to the back of the mirror and all cables will be attached to it, serves as a power strip| $12 | <a href="https://www.amazon.com/Extension-Outlets-Braided-Listed-Compact/dp/B07WJG8K85/ref=sr_1_5?crid=28I8LBFK25F2V&keywords=mifaso%2Bpower%2Boutlet&qid=1687449088&sprefix=mifaso%2Bpower%2Boutlet%2Caps%2C219&sr=8-5&th=1"> Link </a> |
+| Mirror frame | Will hold the acrylic two way mirror in place and the wood surounding it  aswell as the monitor| $23| <a href="https://www.amazon.com/MCS-Industries-63737-Gallery-Woodgrain/dp/B0817D3QS8/ref=sr_1_6?crid=FR9CP0BDVF8A&keywords=mcs+studio+gallery+frame+18+x+24&qid=1687449737&sprefix=mcs+studio+gallery+fram+18+x+24%2Caps%2C161&sr=8-6"> Link </a> |
 
-# Other Resources/Examples
+
+<!---# Other Resources/Examples
 
 - [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
 - [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)

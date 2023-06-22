@@ -1,4 +1,4 @@
-# Magical Mirror!
+# Magic Mirror!
 My project is the magic mirror which has a two-way plastic mirror with a monitor behind connected to a raspberry pie with the magic mirror software downloaded onto it, it will be in my bathroom and it has features like showing my calendar or the time, also at the bottom it displays news. Some big hurdles I have encountered were mostly on the software side of things but the mirror I had was damaged when heat was applied to it whilst trying to fix some scratches so a new one was needed. But now a protective plastic will be put in front of it.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
@@ -18,7 +18,7 @@ My project is the magic mirror which has a two-way plastic mirror with a monitor
 A summary of key topics you learned about
 What you hope to learn in the future after everything you've learned at BSE
 
-# Second Mileston
+# Second Milestone     
  For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
  Technical details of what you've accomplished and how they contribute to the final goal
  What has been surprising about the project so far
@@ -52,13 +52,13 @@ finally you tell the computer to use all that data and make something of it, in 
 ~~~
 npm run start
 ~~~
-and the magic mirror software boots up!
+and the magic mirror software boots up! Now after it boots up there is the time on the top left of the display and under that are a list of American holidays on a google calender and I am hoping to connect my personal google calender to it so when I wake up and go to the bathroom and can see how the day ahead of me is going to look like. There is a weather feture aswell on the top right corner of the software but that still needs to be set up that the moment. Getting the actual softwware to boot up was actually not that difficult, the most time consuing part was getting the Raspberry Pi os up and runnning and making an acount on the Raspberry Pi. I hope in the near future of my time at bluestamp I can add more modules like the stage of the moon and stock prices for different companys. I also hope to add a sensor to detect motion so the mirror isnt on all the time wasting light, I dont think my parentsa would be happy if the light bill sky rockects because of me. 
 
 # Starter Project 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mjSBqs2uI4M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-For my starter project, I chose the useless box. A device whose sole purpose is to turn itself off is referred to as a useless machine or useless box, in which the object’s only purpose is to turn itself off by activating its own “off” switch when powered. I chose the useless box because it looked interesting and I wanted to figure out how the little arm came out of the box and turned the switch off. There is a little led that turns green when the arm is coming out and red when it flips the switch off. Inside the box, there is a servo that is attached to the arm powered by three triple batteries. The arm has extra material at the end which hits a switch when in its off position. Some challenges when making the useless box were getting all the box walls is aligned with the top of the useless box 
+For my starter project, I chose the useless box. A device whose sole purpose is to turn itself off is referred to as a useless machine or useless box, in which the object’s only purpose is to turn itself off by activating its own “off” switch when powered. I chose the useless box because it looked interesting and I wanted to figure out how the little arm came out of the box and turned the switch off. There is a little led that turns green when the arm is coming out and red when it flips the switch off. Inside the box, there is a servo that is attached to the arm powered by three triple A batteries. The arm has extra material at the end which hits a switch when in its off position so the led only turn on when the arm is in motion . Some challenges when making the useless box were getting all the box walls is aligned with the top of the useless box. 
 
 <!---# Code 
 

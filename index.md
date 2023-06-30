@@ -19,7 +19,7 @@ A summary of key topics you learned about
 What you hope to learn in the future after everything you've learned at BSE
 
 # Second Milestone     
- For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
+I assembled the mirror together for my second milestone and I faced a lot of challenges, but before I get to that let me talk about what went well. Ok so some chalenges that I faced was the Raspberry Pi not fitting on back of my display so I took it out of its casing wich also served the purpose of a keyboard and taped it onto the monitor with double sided tape,  pcb exposed and everything. When Micheal came for inspection before I go run off and .  You can highlight:
  Technical details of what you've accomplished and how they contribute to the final goal
  What has been surprising about the project so far
  Previous challenges you faced that you overcame

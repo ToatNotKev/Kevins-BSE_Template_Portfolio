@@ -19,7 +19,8 @@ A summary of key topics you learned about
 What you hope to learn in the future after everything you've learned at BSE -->
 
 # Second Milestone     
-I assembled the mirror together for my second milestone and I faced a lot of challenges, but before I get to that let me talk about what went well. Ok so some chalenges that I faced was the Raspberry Pi not fitting on back of my display so I took it out of its casing wich also served the purpose of a keyboard and taped it onto the monitor with double sided tape, pcb exposed and everything. When Micheal came for inspection before I go run off and record my video he told me that the pcb was too exposed and I had to cut the bottom half of the keyboard casing.
+I assembled the mirror for my second milestone and I faced a lot of hurdles along the way. To assemble the mirror I had to cut a piece of wood to the dimensions of the mirror frame which was 18 by 24 inches with a jigsaw and to fit the monitor in the piece of wood a hole was to be made by cutting holes with a drill fitted with a drill bit matching the size of the blade on the jigsaw. After those holes were made Zian cut everything with a jigsaw. Ok, so some challenges that I faced was the Raspberry Pi not fitting on the back of my display so I took it out of its casing which also served the purpose of a keyboard, and taped it onto the monitor with double-sided tape, pcb exposed and everything. When Micheal came for inspection before I go run off and record my video he told me that the PCB was too exposed and I had to cut the bottom half of the keyboard casing to serve as a protective shield for the Raspberry Pi.
+ 
  
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NBVdRB1cJaQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 

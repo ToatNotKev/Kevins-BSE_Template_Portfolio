@@ -14,12 +14,42 @@ My project is the magic mirror which has a two-way plastic mirror with a monitor
 # Final Milestone
  
  <iframe width="560" height="315" src="https://www.youtube.com/embed/s9gNZv4vyJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
- 
- For your final milestone, explain the outcome of your project. Key details to include are:
- What you've accomplished since your previous milestone
- What your biggest challenges and triumphs were at BSE
-A summary of key topics you learned about
-What you hope to learn in the future after everything you've learned at BSE -->
+
+For my final milestone, I added three modules: a remote module that lets you remotely change the Magic Mirror's appearance and brightness using a web page in your browser; a moon module that tells you what state the moon is in; and a stock module that uses the Yahoo api to display the stock prices of my four favorite stocks. The Raspberry Pi's IP address is used in this, and it is added to the IP WhiteList in the configuration file that is located in the Magic Mirror file. The IP address is then set to "0.0.0.0" in the cofig.js file. Once this is finished, a link will appear on the Magic Mirror program, which you may copy and paste into your browser to operate the mirror. My preferred price for firm shares is paid for my second module, the stock module. As an illustration, I included Apple, Microsoft, Amazon, and Tesla. The price of the stock changes from red to green depending on whether it has increased or decreased in value. It also displays the % change in price and lists the name of the company to the right of the price.You can increase the capability of the Magic Mirror software and alter the data shown on your smart mirror by adding modules to it. Because Magic Mirror is an open-source software built on Node.js, you may add new modules or use ones that are already available to improve the user experience. You can get these different modules from the community of third-party modules on github. Here is a step-by-step tutorial on adding a module.
+
+Prerequisites:
+
+Make sure the Magic Mirror program is installed and activated on your device. Follow the installation instructions listed on the Magic Mirror website if you haven't already done so.
+Basic understanding of JavaScript JavaScript proficiency is required to comprehend and change the modules.
+
+Step 1: Select a Module:
+Choose the module you wish to add first. On GitHub, you may find a variety of modules developed by the Magic Mirror community. attempting to find modules that meet your requirements and choices.
+
+Step 2: Download the Module:
+Once you've chosen a module, download it from the repository or the source provided by the module's creator. Usually, you can find the module's GitHub repository and download it as a ZIP file.
+
+Step 3: Install the Module:
+Extract the contents of the ZIP file into the Magic Mirror's modules folder. The path to the modules folder is typically ~/MagicMirror/modules/.
+
+Step 4: Configure the Module:
+Each module comes with its own configuration options, allowing you to customize its behavior. Navigate to the Magic Mirror's config folder, and open the config.js file in a text editor.
+
+Step 5 : Add the module code onto the config file 
+Locate the modules array in the config.js file. This array contains the configuration settings for all the modules you have installed. Then add the code provided by the creator in git hub onto the config.js file. 
+
+Step 6: Install Module Dependencies (if any):
+Some modules might have additional dependencies required for them to function correctly. If that's the case, follow the instructions provided in the module's documentation to install those dependencies.
+
+Step 7: Restart Magic Mirror:
+After adding the module and making necessary configurations, save all your changes and restart the Magic Mirror application. You can usually do this by stopping and then starting the Magic Mirror server.
+
+Step 8: Customize the Module (Optional):
+Once the module is up and running, you can further customize it according to your preferences. Check the module's documentation to explore the available customization options.
+
+Step 9: Troubleshooting:
+If you encounter any issues during the installation process, refer to the module's GitHub repository or the Magic Mirror forums for troubleshooting tips. You can also seek help from the Magic Mirror community.
+
+Congragulations! You have know added a modules to your Magic Mirror software!
 
 # Second Milestone     
 

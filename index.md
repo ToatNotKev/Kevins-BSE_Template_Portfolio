@@ -47,7 +47,7 @@ Once the module is up and running, you can further customize it according to you
 Step 9: Troubleshooting:
 If you encounter any issues during the installation process, refer to the module's GitHub repository or the Magic Mirror forums for troubleshooting tips. You can also seek help from the Magic Mirror community.
 
-Congragulations! You have know added a modules to your Magic Mirror software!
+Congratulations! You have know added a modules to your Magic Mirror software!
 
 # Second Milestone     
 

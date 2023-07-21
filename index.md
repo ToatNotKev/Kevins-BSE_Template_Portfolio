@@ -7,8 +7,8 @@ My project is the magic mirror which has a two-way plastic mirror with a monitor
 
 <!--**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.** -->
 
-![Kevin-Headshot](https://github.com/ToatNotKev/Kevins-BSE_Template_Portfolio/assets/136644739/66db1569-741d-4ae5-b57c-cc2b7c6dd0dd)
-
+![Copy of Kevin-Headshot](https://github.com/ToatNotKev/Kevins-BSE_Template_Portfolio/assets/136644739/35c43101-efaa-477b-83cc-b5af6abaa5c1)
+ 
 # Final Milestone
  
  <iframe width="560" height="315" src="https://www.youtube.com/embed/s9gNZv4vyJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

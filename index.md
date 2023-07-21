@@ -5,11 +5,9 @@ My project is the magic mirror which has a two-way plastic mirror with a monitor
 |:--:|:--:|:--:|:--:|
 | Kevin M | Eastside College Prepatory | Electrical Engineering | Rising Softmore
 
-<!--**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.** 
+<!--**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.** -->
 
 ![Book logo](/least-github-pages/assets/logo.png)
-  
-<iframe width="560" height="315" src=" " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> -->
 
 # Final Milestone
  
